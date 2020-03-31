@@ -1,0 +1,16 @@
+---
+title: "About me"
+---
+
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+Hi, my name is Juan Torres-Munguía. I am a Mexican PhD student in Applied Statistics and Empirical Methods at the George-August-Universität Göttingen. 
+
+My research interests are the use of flexible semi-parametric regression methods to analyze data on economic development with geo-spatial information. 
+
+My CV
